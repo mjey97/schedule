@@ -40,7 +40,7 @@ class Weekdays
     const Saturday = 'Saturday';
     const Sunday = 'Sunday';
     
-    public static $Weekdays = array('Monday', 'Tuesday', 'Wednesday', 'Thusday', 'Friday', 'Saturday', 'Sunday');
+    public static $Weekdays = array('Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday');
     
     /**
      * get the number of weekdays (7)
