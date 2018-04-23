@@ -10,6 +10,6 @@ The SQL DB is given as a .sql file in the db folder.
 It's a personal project to excersise with php, sql and Bootstrap.
 
 
-Desktop View (Date: 27/03/2018)
+Desktop View (Date: 23/04/2018)
 
 ![desktop_view](https://github.com/mjey97/schedule/blob/master/pics/Screenshot_desktop.png)
