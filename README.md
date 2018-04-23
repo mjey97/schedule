@@ -12,4 +12,4 @@ It's a personal project to excersise with php, sql and Bootstrap.
 
 Desktop View (Date: 27/03/2018)
 
-![desktop_view](https://github.com/mjey97/schedule/blob/master/pics/Screenshot_destop.png)
+![desktop_view](https://github.com/mjey97/schedule/blob/master/pics/Screenshot_desktop.png)
